@@ -1,0 +1,39 @@
+{
+    "weatherStations": [
+        {
+            "name": "Zürich",
+            "measurementTypes": [
+                "temperature",
+                "sunshine",
+                "precipitation"
+            ],
+            "location": {
+                "latitude": 46.6333,
+                "longitude": 6.7,
+                "altitude": 800
+            }
+        }
+    ],
+    "pois": [
+        {
+            "names": "Mont Tendre",
+            "type": "PEAK",
+            "location": {
+                "latitude": 46.6333,
+                "longitude": 6.7,
+                "altitude": 800
+            }
+        }
+    ],
+    "plz": [
+        {
+            "names": "Zürich",
+            "plz": "1058",
+            "location": {
+                "latitude": 46.6333,
+                "longitude": 6.7,
+                "altitude": 800
+            }
+        }
+    ]
+}
